@@ -3,7 +3,6 @@
 
 
 - 🔭 Estou trabalhando com front-end
-- 🌱 Estou aprendendo responsividade
 - 😄 Pronomes: ela/dela
 
 
